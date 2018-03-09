@@ -1,3 +1,13 @@
+
+## Objective of analysis for the current study
+
+# In this mini project we analyse the classic data set of iris flower species
+# The species of IRIS flower recorded in this dataset are VIRGINICA;SERTOSA; VERSICOLOR
+# This data set contains observations on sepal length, sepal width, petal length and petal width attributes
+# Using the length and width measurments of sepal and petals we can easily distinguish the species of the IRIS flower, since each flower specie has it own unique average length and width measures
+# In our analysis we use unsupervised and supervised meachine learning methods to correctly classify the IRIS flower species 
+
+
 #Install graphical suite
 install.packages("ggplot2")
 
